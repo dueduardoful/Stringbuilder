@@ -5,8 +5,6 @@ import entities.Comment;
 import entities.Post;
 
 public class Aplicacao {
-
-	public static void main(String[] args) {
 		public static void main(String[] args) throws ParseException {
 			
 			SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy HH:mm:ss");
